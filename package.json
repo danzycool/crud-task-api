@@ -1,0 +1,24 @@
+{
+  "name": "crud-task-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzycool/crud-task-api.git"
+  },
+  "keywords": [],
+  "author": "Daniel Ohinoyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danzycool/crud-task-api/issues"
+  },
+  "homepage": "https://github.com/danzycool/crud-task-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
