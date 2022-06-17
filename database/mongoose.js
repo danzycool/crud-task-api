@@ -6,7 +6,7 @@ mongoose.connect('mongodb://127.0.0.1:27017/taskManagerDb')
 .then(()=>{
     console.log('DB Connected Sucessfully');
 })
-.catch((error)=>{
+.catch(error=>{
         console.log(error);
     }
 );
